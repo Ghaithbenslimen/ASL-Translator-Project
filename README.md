@@ -15,8 +15,6 @@ The model was trained on the **ASL Alphabet** dataset.
 
 > **Dataset Link:** https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
-The dataset contains ~87,000 images of hand signs covering the 26 letters (A–Z) plus `space` and `del`. It is **not** included in this repository due to its size (~1 GB).
-
 ## Tech Stack
 
 - **Frontend:** React, Vite
